@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\baba g\program\program\bin\Debug\program.exe.config
+C:\Users\acer\Desktop\baba g\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\baba g\program\program\bin\Debug\program.exe
+C:\Users\acer\Desktop\baba g\program\program\bin\Debug\program.pdb
+C:\Users\acer\Desktop\baba g\program\program\obj\Debug\program.exe
+C:\Users\acer\Desktop\baba g\program\program\obj\Debug\program.pdb
